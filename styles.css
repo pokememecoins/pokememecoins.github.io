@@ -115,6 +115,8 @@ footer {
 }
 .container-full {
   max-width:80rem;
+  margin: 0 auto;
+}
 #about {
   padding: 0 60px;
 }
