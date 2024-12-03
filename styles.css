@@ -113,7 +113,8 @@ footer {
   color: white;
   margin-top: 20px;
 }
-
+.container-full {
+  max-width:80rem;
 #about {
   padding: 0 60px;
 }
